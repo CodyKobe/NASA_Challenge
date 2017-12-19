@@ -1,6 +1,5 @@
-node_modules
+# Ide
 .idea
-*.zip
 todo.md
 
 # Logs
